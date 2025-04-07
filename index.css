@@ -1854,6 +1854,7 @@ body {
 
 h3 {
   font-family: var(--h-3-font-family);
+  background-color: var(--theme-text-primary);
 }
 
 .container-col {
@@ -1897,4 +1898,5 @@ button {
   padding: 2px 12px;
   position: relative;
   width: min-content;
+  color: var(--theme-text-secondary);
 }
